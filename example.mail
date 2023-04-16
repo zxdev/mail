@@ -1,0 +1,8 @@
+[gmail]
+user=example@gmail.com
+pass=
+smtp=smtp.gmail.com
+
+[admin]
+mail=admin@gmail.com
+```
